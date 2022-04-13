@@ -1,0 +1,56 @@
+
+h1{
+text-align:center;
+font-family:times;
+font-size:29;
+font-style:bold;
+font-style:italic;
+}
+.first
+{
+color:black ;
+font-family:times;
+text-align:justify;
+font-size:23px;
+font-style:bold;
+font-style:italic;
+}
+h1 {
+  letter-spacing: 1px;
+}
+h1 {
+  word-spacing: 3px;
+}
+table {
+  width: 70%;
+}
+
+th {
+  height: 50px;
+}
+
+td {
+  padding: 15px;
+  text-align: left;
+}
+div {
+  height: 150px;
+  width: 100%;
+  background-color: LightGray;
+}
+ul.a {
+  list-style-type: circle;
+}
+ul.a {
+  list-style-position: outside;
+}
+a:visited {
+  color:Chocolate;
+}
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
